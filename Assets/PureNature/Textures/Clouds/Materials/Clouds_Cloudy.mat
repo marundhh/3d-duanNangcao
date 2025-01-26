@@ -57,3 +57,4 @@ Material:
     - _DirectionSpeed: {r: 6.5, g: 7.8, b: 5.2, a: -7}
     - _ScatteringColor: {r: 1, g: 1, b: 1, a: 1}
   m_BuildTextureStacks: []
+  m_AllowLocking: 1
